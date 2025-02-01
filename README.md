@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BaoshanZZ
+- 👋 Hi, I’m @BaoshanZZ and Born in Wuhan, China
 - 👀 I’m interested in Clinical Trial design methodology and Win Ratio Topic
 - 🌱 I’m currently a PhD Student at Duke University 
 - 💞️ I’m looking to collaborate on Trial Design methodology
